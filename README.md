@@ -15,7 +15,7 @@ A continuacion se presentara un gestor de tareas desarrollado con HTML, CSS y Ja
 2. Abre el archivo `index.html` en tu navegador.
 3. Añade, marca y elimina tareas según sea necesario.
 
-## Estructura del Proyecto
+## Estructura del Proyecto para el gestor de tareas
 
 - index.html: Estructura del HTML.
 - styles.css: Son los estilos para la interfaz.
