@@ -7,6 +7,7 @@ A continuacion se presentara un gestor de tareas desarrollado con HTML, CSS y Ja
 - **Agregar tareas**: Esto nos permitira añadir nuevas tareas a la lista.
 - **Marcar como las tareas completadas**: Las tareas se podran marcar como completadas al hacer clic sobre ellas.
 - **Eliminar tareas**: Se podran eliminadar tareas de la lista.
+- **Lista de tareas**: Se despliega la lista de tarea.
 
 ## Cómo Usar el Gestor de Tareas
 
