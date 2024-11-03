@@ -2,7 +2,7 @@
 
 A continuacion se presentara un gestor de tareas desarrollado con HTML, CSS y JavaScript.
 
-## Funciones del gestor de Ta
+## Funciones del gestor de Tar
 
 - **Agregar tareas**: Esto nos permitira añadir nuevas tareas a la lista.
 - **Marcar como las tareas completadas**: Las tareas se podran marcar como completadas al hacer clic sobre ellas.
