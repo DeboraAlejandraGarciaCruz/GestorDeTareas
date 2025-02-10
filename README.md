@@ -24,6 +24,6 @@ A continuacion se presentara un gestor de tareas desarrollado con HTML, CSS y Ja
 ## Autor
 
 Debora Alejandra Garcia Cruz.
-16
+167
 2 5
 3 4
