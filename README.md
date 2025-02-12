@@ -27,4 +27,3 @@ Debora Alejandra Garcia Cruz.
 167
 2 58
 3 4
-9
